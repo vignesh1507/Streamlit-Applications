@@ -1,0 +1,7 @@
+## **Requirements**
+
+- Python 3.x
+- pandas
+- streamlit
+- matplotlib
+- seaborn
