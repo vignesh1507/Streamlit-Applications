@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.title("Enhanced Data Dashboard")
+st.title("DataScribe")
 
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
 
@@ -18,7 +18,7 @@ if uploaded_file is not None:
     st.subheader("Data Summary")
     st.write(df.describe(include='all'))
 
-    # Handle Missing Data
+    # Handling the Missing Data
     st.subheader("Missing Data")
     st.write(df.isnull().sum())
 
@@ -87,7 +87,7 @@ if uploaded_file is not None:
             ax.hist(filtered_df[x_column], bins=20)
             st.pyplot(fig)
 
-    # Download Filtered Data
+    # Download The Filtered Data
     st.subheader("Download Data")
     if st.button("Download Filtered Data as CSV"):
         csv = filtered_df.to_csv(index=False)
