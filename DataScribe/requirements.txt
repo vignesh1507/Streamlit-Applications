@@ -1,5 +1,4 @@
-Python 3.x
-pandas
-streamlit
-matplotlib
-seaborn
+Python==3.12.0
+pandas==2.1.1
+matplotlib==3.8.0
+seaborn==0.12.2
