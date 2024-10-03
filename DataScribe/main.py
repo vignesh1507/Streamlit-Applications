@@ -26,11 +26,11 @@ if uploaded_file is not None:
         df = df.dropna()
         st.write(df)
     elif st.checkbox("Fill missing data with mean"):
-        # Fill numeric columns with mean
+        # Fill the numeric columns with mean
         numeric_cols = df.select_dtypes(include=['number']).columns
         df[numeric_cols] = df[numeric_cols].fillna(df[numeric_cols].mean())
 
-        # Fill non-numeric columns with mode
+        # Fill the non-numeric columns with mode
         non_numeric_cols = df.select_dtypes(exclude=['number']).columns
         for col in non_numeric_cols:
             df[col].fillna(df[col].mode()[0], inplace=True)
@@ -38,7 +38,7 @@ if uploaded_file is not None:
         st.write(df)
 
     # Multi-Column Filtering
-    st.subheader("Filter Data")
+    st.subheader("Filter The Data")
     columns = df.columns.tolist()
     selected_columns = st.multiselect("Select columns to filter by", columns)
 
@@ -89,7 +89,7 @@ if uploaded_file is not None:
 
     # Download The Filtered Data
     st.subheader("Download Data")
-    if st.button("Download Filtered Data as CSV"):
+    if st.button("Download Filtered Data as CSV File"):
         csv = filtered_df.to_csv(index=False)
         st.download_button(
             label="Download CSV",
