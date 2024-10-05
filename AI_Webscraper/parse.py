@@ -12,7 +12,7 @@ template = (
 )
 
 def extract_events(prompt):
-    groq_api_key = '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'  # Input your own groq api key.
+    groq_api_key = 'YOUR_OWN_API_KEY'  
     
     client = Groq(api_key=groq_api_key)
 
