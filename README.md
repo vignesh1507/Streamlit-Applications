@@ -6,7 +6,7 @@ This repository showcases a collection of innovative Streamlit applications and 
 
 - **User-Friendly Interfaces**: All applications are built with a focus on ease of use, allowing users to engage with complex models without needing deep technical knowledge.
   
-- **LLM Integration**: These apps utilize state-of-the-art language models to perform tasks such as natural language understanding, text generation, sentiment analysis, and more, making them versatile tools for various applications.
+- **LLM Integration**: These apps utilize state-of-the-art language models to perform tasks such as natural language understanding, text generation, webscraping, and more, making them versatile tools for various applications.
   
 - **Real-World Applications**: The projects aim to solve practical problems or enhance productivity in areas like data analysis, content generation, and automated responses, demonstrating the potential of AI in everyday tasks.
   
