@@ -13,14 +13,19 @@ Make sure you have the following installed on your local machine:
 ## Installation
 
 1. Clone the repository (or download the files) to your local machine.
-2. Navigate to the project directory in your terminal.
-3. Create a virtual environment (optional but recommended):
+
+```bash
+git clone https://github.com/vignesh1507/Streamlit-Applications/AI_Webscraper.git
+```
+
+3. Navigate to the project directory in your terminal.
+4. Create a virtual environment (optional but recommended):
 
    ```bash
    python -m venv venv
    ```
 
-4. Activate the virtual environment:
+5. Activate the virtual environment:
 
    - On Windows:
 
@@ -34,7 +39,7 @@ Make sure you have the following installed on your local machine:
      source venv/bin/activate
      ```
 
-5. Install the required packages:
+6. Install the required packages:
 
    ```bash
    pip install -r requirements.txt
