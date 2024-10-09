@@ -1,6 +1,6 @@
 # AI Web Scraper
 
-This idea is a web scraping application/prototype built using Streamlit, BeautifulSoup, Selenium and Groq. It allows users to input a website URL, scrape content from that website, and download the parsed data in various formats.
+This idea is a webscraping application/prototype built using Streamlit, BeautifulSoup, Selenium and Groq. It allows users to input a website URL, scrape content from that website, and download the parsed data in various formats.
 
 ## Prerequisites
 
