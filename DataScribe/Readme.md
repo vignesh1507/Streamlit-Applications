@@ -36,7 +36,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vignesh1507/DataScribe.git
+   git clone https://github.com/Streamlit-Applications/DataScribe.git
    ```
 
 2. **Navigate to the project directory:**
