@@ -1,6 +1,6 @@
 # **DataScribe**
 
-**DataScribe** is an interactive and intuitive tool designed to simplify the analysis and visualization of CSV data. Built using **Streamlit**, this tool allows users to upload CSV files, filter data, handle missing values, visualize correlations, and generate various plots. The processed data can also be downloaded in CSV format for further analysis.
+**DataScribe** is an interactive and intuitive tool designed to simplify the analysis and visualization of CSV data. Built using **Streamlit Application**, this tool allows users to upload CSV files, filter data, handle missing values, visualize correlations, and generate various plots. The processed data can also be downloaded in CSV format for further analysis.
 
 ## **Features**
 
