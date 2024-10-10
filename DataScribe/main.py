@@ -87,7 +87,7 @@ if uploaded_file is not None:
             ax.hist(filtered_df[x_column], bins=20)
             st.pyplot(fig)
 
-    # Download The Filtered Data
+    # Download The Filtered CSV Data
     st.subheader("Download Data")
     if st.button("Download Filtered Data as CSV File"):
         csv = filtered_df.to_csv(index=False)
