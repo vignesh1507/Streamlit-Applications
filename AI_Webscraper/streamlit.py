@@ -20,8 +20,8 @@ def extract_links(dom_content, keyword):
     return links
 
 # Streamlit UI
-st.title("AI Web Scraper")
-url = st.text_input("Enter Website URL")
+st.title("AI WebScraper")
+url = st.text_input("Enter Website URL:")
 
 # Step 1: Scrape the Website
 if st.button("Scrape Website"):
