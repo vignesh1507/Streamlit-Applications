@@ -42,7 +42,7 @@ git clone https://github.com/vignesh1507/Streamlit-Applications/AI_Webscraper.gi
 6. Install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Running the Streamlit Application
