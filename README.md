@@ -12,4 +12,4 @@ This repository showcases a collection of innovative Streamlit applications and 
   
 - **Open Source**: Each application is open source, encouraging collaboration and contributions from the community. You can explore the code, suggest improvements, or even use it as a foundation for your own projects.
 
-Feel free to explore the applications and dive into the code to see how these models can be utilized effectively in real-world scenarios!
+Feel free to explore the applications' and dive into the code to see how these models can be utilized effectively in real-world scenarios!
