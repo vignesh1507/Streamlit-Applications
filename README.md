@@ -1,5 +1,5 @@
 ## Streamlit Applications 
-
+ 
 This repository showcases a collection of innovative Streamlit applications and user interfaces that I have developed using Python and advanced Large Language Models (LLMs). Each application is designed to leverage the power of AI and provide users with intuitive, interactive experiences.  
 
 ## Key Features: 
