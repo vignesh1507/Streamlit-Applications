@@ -3,7 +3,7 @@
 This repository showcases a collection of innovative Streamlit applications and user interfaces that I have developed using Python and advanced LLMs. Each application is designed to leverage the power of AI and provide users with intuitive, interactive experiences.      
   
 ## Key Features: 
-
+    
 - **User-Friendly Interfaces**: All applications are built with a focus on ease of use, allowing users to engage with complex models without needing deep technical knowledge.
   
 - **LLM Integration**: These apps utilize state-of-the-art language models to perform tasks such as natural language understanding, text generation, web scraping, and more, making them versatile tools for various applications. 
