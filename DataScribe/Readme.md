@@ -67,7 +67,3 @@
 ## **Contribution**
 
 Feel free to fork this project, submit issues, and contribute improvements!
-
-## **Credits**
-
-**DataScribe** was developed using Python and Streamlit to create a user-friendly tool for CSV file analysis and visualization.
